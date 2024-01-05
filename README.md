@@ -12,7 +12,7 @@ Fokus is a versatile web application that combines a productivity timer with a s
 
 ## Getting Started
 
-To use Fokus, simply open the [live demo](#) or clone the repository and open the `index.html` file in your preferred web browser.
+To use Fokus, simply open the [https://carolwainstein.github.io/fokus/](#) or clone the repository and open the `index.html` file in your preferred web browser.
 
 ## Usage
 
